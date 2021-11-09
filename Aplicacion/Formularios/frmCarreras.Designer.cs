@@ -77,7 +77,6 @@ namespace Aplicacion.Formularios
             this.lblIdCarrera.Size = new System.Drawing.Size(210, 31);
             this.lblIdCarrera.TabIndex = 1;
             this.lblIdCarrera.Text = "Datos de la Carrera";
-            this.lblIdCarrera.Click += new System.EventHandler(this.lblIdCarrera_Click);
             // 
             // lblNomCarrera
             // 
@@ -263,7 +262,6 @@ namespace Aplicacion.Formularios
             this.txtTitulo.Name = "txtTitulo";
             this.txtTitulo.Size = new System.Drawing.Size(388, 24);
             this.txtTitulo.TabIndex = 1;
-            this.txtTitulo.TextChanged += new System.EventHandler(this.txtTitulo_TextChanged);
             // 
             // rbtAnual
             // 

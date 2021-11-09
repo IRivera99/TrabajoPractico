@@ -269,6 +269,7 @@ namespace Aplicacion.Formularios
             if (result == DialogResult.Yes)
             {
                 ResetDatos();
+                lstCarreras.Enabled = true;
             }
         }
 
@@ -293,16 +294,6 @@ namespace Aplicacion.Formularios
         private void lstCarreras_LostFocus(object sender, EventArgs e)
         {
             lstCarreras.ClearSelected();
-        }
-
-        private void lblIdCarrera_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtTitulo_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
