@@ -80,7 +80,7 @@ begin
 end
 go
 
-alter proc SP_BORRAR_ASIGNATURA
+create proc SP_BORRAR_ASIGNATURA
 	@idAsignatura int
 as
 begin
