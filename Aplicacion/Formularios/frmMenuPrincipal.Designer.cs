@@ -53,9 +53,10 @@ namespace Aplicacion.Formularios
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(7, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(439, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(858, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
             // 
             // archivoToolStripMenuItem
             // 
@@ -77,8 +78,8 @@ namespace Aplicacion.Formularios
             this.soporteToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.asignaturaToolStripMenuItem});
             this.soporteToolStripMenuItem.Name = "soporteToolStripMenuItem";
-            this.soporteToolStripMenuItem.Size = new System.Drawing.Size(60, 20);
-            this.soporteToolStripMenuItem.Text = "Soporte";
+            this.soporteToolStripMenuItem.Size = new System.Drawing.Size(81, 20);
+            this.soporteToolStripMenuItem.Text = "Asignaturas";
             // 
             // asignaturaToolStripMenuItem
             // 
@@ -108,8 +109,8 @@ namespace Aplicacion.Formularios
             this.transacciónToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsmCarreras});
             this.transacciónToolStripMenuItem.Name = "transacciónToolStripMenuItem";
-            this.transacciónToolStripMenuItem.Size = new System.Drawing.Size(81, 20);
-            this.transacciónToolStripMenuItem.Text = "Transacción";
+            this.transacciónToolStripMenuItem.Size = new System.Drawing.Size(62, 20);
+            this.transacciónToolStripMenuItem.Text = "Carreras";
             // 
             // tsmCarreras
             // 
@@ -136,7 +137,7 @@ namespace Aplicacion.Formularios
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(439, 251);
+            this.ClientSize = new System.Drawing.Size(858, 419);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T9I/xA7xhaL/027fL0WO17KQyOWTWOafc4hPbS6ZLaGb7eMEqLqiQ/4jWyQ0+tCeeDCrkHCj2e5Iy6XTgAzfJw==",
+  "dgSpecHash": "zY4iCBn8TEASPJouZYezbzKhF8/KhrSotKYNPSPfACJ8HtUQb8LiGtXiTxiNBu3rzDX7/nae+8dtGY/YVYY29A==",
   "success": true,
-  "projectFilePath": "F:\\Facu\\Tecnicatura Programacion\\2021\\PII\\Trabajo Practico\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "F:\\Repositorios Git\\TrabajoPractico\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nacho\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Nacho\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

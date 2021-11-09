@@ -659,11 +659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Facu\\Tecnicatura Programacion\\2021\\PII\\Trabajo Practico\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "F:\\Repositorios Git\\TrabajoPractico\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "F:\\Facu\\Tecnicatura Programacion\\2021\\PII\\Trabajo Practico\\WebAPI\\WebAPI.csproj",
+      "projectPath": "F:\\Repositorios Git\\TrabajoPractico\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Nacho\\.nuget\\packages\\",
-      "outputPath": "F:\\Facu\\Tecnicatura Programacion\\2021\\PII\\Trabajo Practico\\WebAPI\\obj\\",
+      "outputPath": "F:\\Repositorios Git\\TrabajoPractico\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nacho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -680,8 +680,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\Facu\\Tecnicatura Programacion\\2021\\PII\\Trabajo Practico\\LibreriaDatos\\LibreriaDatos.csproj": {
-              "projectPath": "F:\\Facu\\Tecnicatura Programacion\\2021\\PII\\Trabajo Practico\\LibreriaDatos\\LibreriaDatos.csproj"
+            "F:\\Repositorios Git\\TrabajoPractico\\LibreriaDatos\\LibreriaDatos.csproj": {
+              "projectPath": "F:\\Repositorios Git\\TrabajoPractico\\LibreriaDatos\\LibreriaDatos.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kTY49VMmmj79ElhgVbPwL4Agt8k65zEhPG+msT5aWYY3KHJKT5w9/B6Vg0eNDtiuT+T9EB5D5PIqGvEruEYjzQ==",
+  "dgSpecHash": "wbqX2v+Vt0LB9PRdkSFtATwzrVLT5g7lSN3b/TdgHqgzYPKz50OrzTNlU5WkKzn17p3endDNz6DXRtUW1Te+4A==",
   "success": true,
-  "projectFilePath": "F:\\Facu\\Tecnicatura Programacion\\2021\\PII\\Trabajo Practico\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "F:\\Repositorios Git\\TrabajoPractico\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nacho\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Nacho\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

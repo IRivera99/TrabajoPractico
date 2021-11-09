@@ -20,7 +20,7 @@ namespace Aplicacion.Formularios
         public frmLogin()
         {
             InitializeComponent();
-            this.Show();
+            this.Show();            
         }
 
         private async void btnIngresar_Click(object sender, EventArgs e)
@@ -52,7 +52,12 @@ namespace Aplicacion.Formularios
                 frmMenuPrincipal.Show();
                 frmMenuPrincipal.FormClosed += Logout;
                 this.Hide();
-                return;
+                txtUsuario.Text = "Usuario";
+                txtUsuario.Font = new System.Drawing.Font("Quicksand Light", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+                txtContraseña.Text = "Contraseña";
+                txtContraseña.PasswordChar = '\0';
+                txtContraseña.Font = new System.Drawing.Font("Quicksand Light", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);            
+            return;
             }
             else
             {
@@ -74,8 +79,7 @@ namespace Aplicacion.Formularios
             DialogResult result = MessageBox.Show("¿Está seguro que desea salir del programa?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (result == DialogResult.Yes)
             {
-                this.Close();
-                
+                this.Close();                
             }
         }
 
@@ -84,6 +88,7 @@ namespace Aplicacion.Formularios
             if (txtUsuario.Text.Equals("Usuario"))
             {
                 txtUsuario.Text = string.Empty;
+                txtUsuario.Font = new System.Drawing.Font("Quicksand Medium", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             }                
         }
         private void txtUsuario_LostFocus(object sender, EventArgs e)
@@ -91,6 +96,7 @@ namespace Aplicacion.Formularios
             if (txtUsuario.Text.Equals(string.Empty))
             {
                 txtUsuario.Text = "Usuario";
+                txtUsuario.Font = new System.Drawing.Font("Quicksand Light", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);                
             }
         }
         private void txtContraseña_Click(object sender, EventArgs e)
@@ -98,7 +104,8 @@ namespace Aplicacion.Formularios
             if (txtContraseña.Text.Equals("Contraseña"))
             {
                 txtContraseña.Text = string.Empty;
-                txtContraseña.PasswordChar = '*';            
+                txtContraseña.PasswordChar = '*';
+                txtUsuario.Font = new System.Drawing.Font("Quicksand Medium", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             }
                 
         }
@@ -108,7 +115,13 @@ namespace Aplicacion.Formularios
             {
                 txtContraseña.Text = "Contraseña";
                 txtContraseña.PasswordChar = '\0';
+                txtContraseña.Font = new System.Drawing.Font("Quicksand Light", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             }
+        }
+
+        private void frmLogin_Load(object sender, EventArgs e)
+        {
+            
         }
     }
 }

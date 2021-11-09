@@ -30,3 +30,35 @@ F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\Aplicacion\obj\Debug\
 F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.Formularios.frmLogin.resources
 F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.Formularios.frmMenuPrincipal.resources
 F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.Formularios.frmModificarAsignaturas.resources
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\Aplicacion.exe
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\Aplicacion.deps.json
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\Aplicacion.runtimeconfig.json
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\Aplicacion.runtimeconfig.dev.json
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\Aplicacion.dll
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\ref\Aplicacion.dll
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\Aplicacion.pdb
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\LibreriaDatos.dll
+F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\LibreriaDatos.pdb
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.csprojAssemblyReference.cache
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.Formularios.frmAltaAsignaturas.resources
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.Formularios.frmCarreras.resources
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.Formularios.frmLogin.resources
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.Formularios.frmMenuPrincipal.resources
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.Formularios.frmModificarAsignaturas.resources
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.csproj.GenerateResource.cache
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.AssemblyInfoInputs.cache
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.AssemblyInfo.cs
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.csproj.CoreCompileInputs.cache
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.csproj.CopyComplete
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.dll
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\ref\Aplicacion.dll
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.pdb
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.genruntimeconfig.cache

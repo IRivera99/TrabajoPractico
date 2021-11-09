@@ -31,8 +31,7 @@ namespace Aplicacion.Formularios
         {
             btnVolver.Enabled = btnGrabar.Enabled = btnCancelar.Enabled = false;
             await CargarListaAsync();
-            VerificarVolver();
-            lstAsignaturas.SelectedIndex = -1;           
+            VerificarVolver();                      
         }
 
         private async Task CargarListaAsync()
@@ -84,8 +83,7 @@ namespace Aplicacion.Formularios
                 listaAsignaturas.Clear();
                 ultimoLista = -1;
                 btnVolver.Enabled = false;
-                await CargarListaAsync();                
-                lstAsignaturas.SelectedIndex = -1;            
+                await CargarListaAsync();                            
                 VerificarVolver();
                 btnVolver.Enabled = btnGrabar.Enabled = btnCancelar.Enabled = false;
             }
@@ -93,7 +91,7 @@ namespace Aplicacion.Formularios
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            if (txtNombre.Text == "")
+            if (txtNombre.Text.Equals(string.Empty) || txtNombre.Text.Equals("Nombre Asignatura"))
             {
                 MessageBox.Show("Debe ingresar un nombre para la asignatura", "Validaciones", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 txtNombre.Focus();
@@ -150,6 +148,22 @@ namespace Aplicacion.Formularios
             if (result == DialogResult.Yes)
             {
                 this.Dispose();
+            }
+        }
+        private void txtNombre_Click(object sender, EventArgs e)
+        {
+            if (txtNombre.Text.Equals("Nombre Asignatura"))
+            {
+                txtNombre.Text = string.Empty;
+                txtNombre.Font = new System.Drawing.Font("Quicksand Medium", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            }
+        }
+        private void txtNombre_LostFocus(object sender, EventArgs e)
+        {
+            if (txtNombre.Text.Equals(string.Empty))
+            {
+                txtNombre.Text = "Nombre Asignatura";
+                txtNombre.Font = new System.Drawing.Font("Quicksand Light", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             }
         }
     }

@@ -294,5 +294,15 @@ namespace Aplicacion.Formularios
         {
             lstCarreras.ClearSelected();
         }
+
+        private void lblIdCarrera_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtTitulo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
