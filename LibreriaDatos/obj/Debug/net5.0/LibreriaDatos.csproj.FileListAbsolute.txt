@@ -1,0 +1,12 @@
+F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\bin\Debug\net5.0\LibreriaDatos.deps.json
+F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\bin\Debug\net5.0\LibreriaDatos.dll
+F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\bin\Debug\net5.0\ref\LibreriaDatos.dll
+F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\bin\Debug\net5.0\LibreriaDatos.pdb
+F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.AssemblyInfoInputs.cache
+F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.AssemblyInfo.cs
+F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.csproj.CoreCompileInputs.cache
+F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.dll
+F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\obj\Debug\net5.0\ref\LibreriaDatos.dll
+F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.pdb
+F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.csprojAssemblyReference.cache
