@@ -10,3 +10,15 @@ F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\obj\Deb
 F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\obj\Debug\net5.0\ref\LibreriaDatos.dll
 F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.pdb
 F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.csprojAssemblyReference.cache
+F:\Repositorios Git\TrabajoPractico\LibreriaDatos\bin\Debug\net5.0\LibreriaDatos.deps.json
+F:\Repositorios Git\TrabajoPractico\LibreriaDatos\bin\Debug\net5.0\LibreriaDatos.dll
+F:\Repositorios Git\TrabajoPractico\LibreriaDatos\bin\Debug\net5.0\ref\LibreriaDatos.dll
+F:\Repositorios Git\TrabajoPractico\LibreriaDatos\bin\Debug\net5.0\LibreriaDatos.pdb
+F:\Repositorios Git\TrabajoPractico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.csproj.AssemblyReference.cache
+F:\Repositorios Git\TrabajoPractico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositorios Git\TrabajoPractico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.AssemblyInfoInputs.cache
+F:\Repositorios Git\TrabajoPractico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.AssemblyInfo.cs
+F:\Repositorios Git\TrabajoPractico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.csproj.CoreCompileInputs.cache
+F:\Repositorios Git\TrabajoPractico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.dll
+F:\Repositorios Git\TrabajoPractico\LibreriaDatos\obj\Debug\net5.0\ref\LibreriaDatos.dll
+F:\Repositorios Git\TrabajoPractico\LibreriaDatos\obj\Debug\net5.0\LibreriaDatos.pdb

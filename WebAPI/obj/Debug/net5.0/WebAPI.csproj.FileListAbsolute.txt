@@ -35,3 +35,40 @@ F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\WebAPI\bin\Debug\net5
 F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\WebAPI\bin\Debug\net5.0\LibreriaDatos.dll
 F:\Facu\Tecnicatura Programacion\2021\PII\Trabajo Practico\WebAPI\bin\Debug\net5.0\LibreriaDatos.pdb
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\appsettings.json
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\WebAPI.exe
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\WebAPI.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\LibreriaDatos.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\bin\Debug\net5.0\LibreriaDatos.pdb
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\WebAPI.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+F:\Repositorios Git\TrabajoPractico\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache

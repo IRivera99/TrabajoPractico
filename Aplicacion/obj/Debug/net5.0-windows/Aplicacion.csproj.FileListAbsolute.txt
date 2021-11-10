@@ -46,7 +46,6 @@ F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\runtimes
 F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\LibreriaDatos.dll
 F:\Repositorios Git\TrabajoPractico\Aplicacion\bin\Debug\net5.0-windows\LibreriaDatos.pdb
-F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.csprojAssemblyReference.cache
 F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.Formularios.frmAltaAsignaturas.resources
 F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.Formularios.frmCarreras.resources
 F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.Formularios.frmLogin.resources
@@ -62,3 +61,4 @@ F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicaci
 F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\ref\Aplicacion.dll
 F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.pdb
 F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.genruntimeconfig.cache
+F:\Repositorios Git\TrabajoPractico\Aplicacion\obj\Debug\net5.0-windows\Aplicacion.csproj.AssemblyReference.cache

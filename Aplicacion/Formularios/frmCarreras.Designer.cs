@@ -30,6 +30,8 @@ namespace Aplicacion.Formularios
         private void InitializeComponent()
         {
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             this.lblIdCarrera = new System.Windows.Forms.Label();
             this.lblNomCarrera = new System.Windows.Forms.Label();
@@ -51,15 +53,15 @@ namespace Aplicacion.Formularios
             this.btnModificar = new System.Windows.Forms.Button();
             this.btnQuitar = new System.Windows.Forms.Button();
             this.dgvAsignaturas = new System.Windows.Forms.DataGridView();
-            this.label1 = new System.Windows.Forms.Label();
-            this.btnVolver = new System.Windows.Forms.Button();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.año = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.cuatrimestre = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.quitar = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.label1 = new System.Windows.Forms.Label();
+            this.btnVolver = new System.Windows.Forms.Button();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
             ((System.ComponentModel.ISupportInitialize)(this.nudAño)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvAsignaturas)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -118,7 +120,7 @@ namespace Aplicacion.Formularios
             // 
             this.txtNombre.Font = new System.Drawing.Font("Quicksand", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txtNombre.Location = new System.Drawing.Point(130, 29);
-            this.txtNombre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtNombre.Margin = new System.Windows.Forms.Padding(4);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(388, 24);
             this.txtNombre.TabIndex = 0;
@@ -128,7 +130,7 @@ namespace Aplicacion.Formularios
             this.cboAsignatura.Font = new System.Drawing.Font("Quicksand", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.cboAsignatura.FormattingEnabled = true;
             this.cboAsignatura.Location = new System.Drawing.Point(131, 101);
-            this.cboAsignatura.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cboAsignatura.Margin = new System.Windows.Forms.Padding(4);
             this.cboAsignatura.Name = "cboAsignatura";
             this.cboAsignatura.Size = new System.Drawing.Size(387, 27);
             this.cboAsignatura.TabIndex = 2;
@@ -139,7 +141,7 @@ namespace Aplicacion.Formularios
             this.rbt1C.Font = new System.Drawing.Font("Quicksand", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.rbt1C.ForeColor = System.Drawing.Color.White;
             this.rbt1C.Location = new System.Drawing.Point(343, 137);
-            this.rbt1C.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rbt1C.Margin = new System.Windows.Forms.Padding(4);
             this.rbt1C.Name = "rbt1C";
             this.rbt1C.Size = new System.Drawing.Size(134, 25);
             this.rbt1C.TabIndex = 4;
@@ -153,7 +155,7 @@ namespace Aplicacion.Formularios
             this.rbt2C.Font = new System.Drawing.Font("Quicksand", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.rbt2C.ForeColor = System.Drawing.Color.White;
             this.rbt2C.Location = new System.Drawing.Point(343, 165);
-            this.rbt2C.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rbt2C.Margin = new System.Windows.Forms.Padding(4);
             this.rbt2C.Name = "rbt2C";
             this.rbt2C.Size = new System.Drawing.Size(140, 25);
             this.rbt2C.TabIndex = 5;
@@ -168,7 +170,7 @@ namespace Aplicacion.Formularios
             this.btnAgregar.Font = new System.Drawing.Font("Quicksand", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.btnAgregar.ForeColor = System.Drawing.Color.White;
             this.btnAgregar.Location = new System.Drawing.Point(175, 220);
-            this.btnAgregar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnAgregar.Margin = new System.Windows.Forms.Padding(4);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(182, 29);
             this.btnAgregar.TabIndex = 7;
@@ -195,7 +197,7 @@ namespace Aplicacion.Formularios
             this.btnGuardar.Font = new System.Drawing.Font("Quicksand", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.btnGuardar.ForeColor = System.Drawing.Color.White;
             this.btnGuardar.Location = new System.Drawing.Point(282, 474);
-            this.btnGuardar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnGuardar.Margin = new System.Windows.Forms.Padding(4);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Size = new System.Drawing.Size(92, 28);
             this.btnGuardar.TabIndex = 9;
@@ -210,7 +212,7 @@ namespace Aplicacion.Formularios
             this.btnCancelar.Font = new System.Drawing.Font("Quicksand", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.btnCancelar.ForeColor = System.Drawing.Color.White;
             this.btnCancelar.Location = new System.Drawing.Point(158, 474);
-            this.btnCancelar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnCancelar.Margin = new System.Windows.Forms.Padding(4);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(92, 28);
             this.btnCancelar.TabIndex = 13;
@@ -222,7 +224,7 @@ namespace Aplicacion.Formularios
             // 
             this.nudAño.Font = new System.Drawing.Font("Quicksand", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.nudAño.Location = new System.Drawing.Point(131, 138);
-            this.nudAño.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.nudAño.Margin = new System.Windows.Forms.Padding(4);
             this.nudAño.Maximum = new decimal(new int[] {
             6,
             0,
@@ -258,7 +260,7 @@ namespace Aplicacion.Formularios
             // 
             this.txtTitulo.Font = new System.Drawing.Font("Quicksand", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txtTitulo.Location = new System.Drawing.Point(130, 65);
-            this.txtTitulo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtTitulo.Margin = new System.Windows.Forms.Padding(4);
             this.txtTitulo.Name = "txtTitulo";
             this.txtTitulo.Size = new System.Drawing.Size(388, 24);
             this.txtTitulo.TabIndex = 1;
@@ -269,7 +271,7 @@ namespace Aplicacion.Formularios
             this.rbtAnual.Font = new System.Drawing.Font("Quicksand", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.rbtAnual.ForeColor = System.Drawing.Color.White;
             this.rbtAnual.Location = new System.Drawing.Point(343, 193);
-            this.rbtAnual.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rbtAnual.Margin = new System.Windows.Forms.Padding(4);
             this.rbtAnual.Name = "rbtAnual";
             this.rbtAnual.Size = new System.Drawing.Size(64, 25);
             this.rbtAnual.TabIndex = 6;
@@ -303,7 +305,7 @@ namespace Aplicacion.Formularios
             this.btnModificar.Font = new System.Drawing.Font("Quicksand", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.btnModificar.ForeColor = System.Drawing.Color.White;
             this.btnModificar.Location = new System.Drawing.Point(38, 417);
-            this.btnModificar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnModificar.Margin = new System.Windows.Forms.Padding(4);
             this.btnModificar.Name = "btnModificar";
             this.btnModificar.Size = new System.Drawing.Size(92, 38);
             this.btnModificar.TabIndex = 11;
@@ -318,7 +320,7 @@ namespace Aplicacion.Formularios
             this.btnQuitar.Font = new System.Drawing.Font("Quicksand", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.btnQuitar.ForeColor = System.Drawing.Color.White;
             this.btnQuitar.Location = new System.Drawing.Point(146, 417);
-            this.btnQuitar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnQuitar.Margin = new System.Windows.Forms.Padding(4);
             this.btnQuitar.Name = "btnQuitar";
             this.btnQuitar.Size = new System.Drawing.Size(92, 38);
             this.btnQuitar.TabIndex = 12;
@@ -348,13 +350,70 @@ namespace Aplicacion.Formularios
             this.año,
             this.cuatrimestre,
             this.quitar});
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Quicksand", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvAsignaturas.DefaultCellStyle = dataGridViewCellStyle3;
             this.dgvAsignaturas.Location = new System.Drawing.Point(13, 260);
-            this.dgvAsignaturas.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dgvAsignaturas.Margin = new System.Windows.Forms.Padding(4);
             this.dgvAsignaturas.Name = "dgvAsignaturas";
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Quicksand", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvAsignaturas.RowHeadersDefaultCellStyle = dataGridViewCellStyle4;
             this.dgvAsignaturas.RowHeadersVisible = false;
             this.dgvAsignaturas.Size = new System.Drawing.Size(507, 206);
             this.dgvAsignaturas.TabIndex = 21;
             this.dgvAsignaturas.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvAsignaturas_CellContentClick);
+            // 
+            // Column1
+            // 
+            this.Column1.HeaderText = "Column1";
+            this.Column1.Name = "Column1";
+            this.Column1.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.Column1.Visible = false;
+            // 
+            // nombre
+            // 
+            this.nombre.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
+            this.nombre.HeaderText = "Nombre";
+            this.nombre.Name = "nombre";
+            this.nombre.Width = 270;
+            // 
+            // año
+            // 
+            this.año.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            this.año.DefaultCellStyle = dataGridViewCellStyle2;
+            this.año.HeaderText = "Año";
+            this.año.Name = "año";
+            this.año.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Programmatic;
+            this.año.Width = 60;
+            // 
+            // cuatrimestre
+            // 
+            this.cuatrimestre.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
+            this.cuatrimestre.HeaderText = "Cuatrimestre";
+            this.cuatrimestre.Name = "cuatrimestre";
+            this.cuatrimestre.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Programmatic;
+            this.cuatrimestre.Width = 119;
+            // 
+            // quitar
+            // 
+            this.quitar.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.quitar.HeaderText = "Quitar";
+            this.quitar.Name = "quitar";
+            this.quitar.Text = "Quitar";
+            this.quitar.UseColumnTextForButtonValue = true;
+            this.quitar.Width = 56;
             // 
             // label1
             // 
@@ -375,7 +434,7 @@ namespace Aplicacion.Formularios
             this.btnVolver.Font = new System.Drawing.Font("Quicksand Medium", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.btnVolver.ForeColor = System.Drawing.Color.White;
             this.btnVolver.Location = new System.Drawing.Point(545, 495);
-            this.btnVolver.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnVolver.Margin = new System.Windows.Forms.Padding(4);
             this.btnVolver.Name = "btnVolver";
             this.btnVolver.Size = new System.Drawing.Size(274, 39);
             this.btnVolver.TabIndex = 23;
@@ -423,47 +482,6 @@ namespace Aplicacion.Formularios
             this.groupBox2.Size = new System.Drawing.Size(276, 463);
             this.groupBox2.TabIndex = 25;
             this.groupBox2.TabStop = false;
-            // 
-            // Column1
-            // 
-            this.Column1.HeaderText = "Column1";
-            this.Column1.Name = "Column1";
-            this.Column1.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.Column1.Visible = false;
-            // 
-            // nombre
-            // 
-            this.nombre.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
-            this.nombre.HeaderText = "Nombre";
-            this.nombre.Name = "nombre";
-            this.nombre.Width = 270;
-            // 
-            // año
-            // 
-            this.año.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            this.año.DefaultCellStyle = dataGridViewCellStyle2;
-            this.año.HeaderText = "Año";
-            this.año.Name = "año";
-            this.año.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Programmatic;
-            this.año.Width = 60;
-            // 
-            // cuatrimestre
-            // 
-            this.cuatrimestre.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            this.cuatrimestre.HeaderText = "Cuatrimestre";
-            this.cuatrimestre.Name = "cuatrimestre";
-            this.cuatrimestre.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Programmatic;
-            this.cuatrimestre.Width = 119;
-            // 
-            // quitar
-            // 
-            this.quitar.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
-            this.quitar.HeaderText = "Quitar";
-            this.quitar.Name = "quitar";
-            this.quitar.Text = "Quitar";
-            this.quitar.UseColumnTextForButtonValue = true;
-            this.quitar.Width = 56;
             // 
             // frmCarreras
             // 
