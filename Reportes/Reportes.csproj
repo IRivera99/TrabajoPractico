@@ -67,6 +67,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dominio\Carrera.cs" />
     <Compile Include="Formularios\frmPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>

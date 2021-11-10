@@ -9,7 +9,7 @@
               <Width>1.34465cm</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>14.58327cm</Width>
+              <Width>10.5616cm</Width>
             </TablixColumn>
           </TablixColumns>
           <TablixRows>
@@ -178,8 +178,8 @@
           </TablixMembers>
         </TablixRowHierarchy>
         <DataSetName>DataSet1</DataSetName>
-        <Height>1.30583cm</Height>
-        <Width>15.92792cm</Width>
+        <Height>1.30584cm</Height>
+        <Width>11.90625cm</Width>
         <Style>
           <Border>
             <Style>None</Style>
@@ -187,10 +187,10 @@
         </Style>
       </Tablix>
     </ReportItems>
-    <Height>2in</Height>
+    <Height>0.52083in</Height>
     <Style />
   </Body>
-  <Width>6.29167in</Width>
+  <Width>4.70834in</Width>
   <Page>
     <PageHeight>29.7cm</PageHeight>
     <PageWidth>21cm</PageWidth>

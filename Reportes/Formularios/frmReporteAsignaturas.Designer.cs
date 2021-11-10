@@ -72,7 +72,7 @@ namespace WindowsFormsApp2.Formularios
             this.reportViewer2.Location = new System.Drawing.Point(-1, 63);
             this.reportViewer2.Name = "reportViewer2";
             this.reportViewer2.ServerReport.BearerToken = null;
-            this.reportViewer2.Size = new System.Drawing.Size(665, 268);
+            this.reportViewer2.Size = new System.Drawing.Size(517, 268);
             this.reportViewer2.TabIndex = 0;
             // 
             // asignaturasTableAdapter
@@ -84,7 +84,7 @@ namespace WindowsFormsApp2.Formularios
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Quicksand Medium", 20F);
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(176, 9);
+            this.label1.Location = new System.Drawing.Point(103, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(310, 40);
             this.label1.TabIndex = 1;
@@ -96,7 +96,7 @@ namespace WindowsFormsApp2.Formularios
             this.btnRegresar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRegresar.Font = new System.Drawing.Font("Quicksand Medium", 10F);
             this.btnRegresar.ForeColor = System.Drawing.Color.White;
-            this.btnRegresar.Location = new System.Drawing.Point(561, 349);
+            this.btnRegresar.Location = new System.Drawing.Point(426, 349);
             this.btnRegresar.Name = "btnRegresar";
             this.btnRegresar.Size = new System.Drawing.Size(90, 33);
             this.btnRegresar.TabIndex = 2;
@@ -109,7 +109,7 @@ namespace WindowsFormsApp2.Formularios
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(99)))), ((int)(((byte)(184)))));
-            this.ClientSize = new System.Drawing.Size(663, 394);
+            this.ClientSize = new System.Drawing.Size(516, 394);
             this.Controls.Add(this.btnRegresar);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.reportViewer2);

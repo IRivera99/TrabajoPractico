@@ -70,6 +70,16 @@ begin
 end
 go
 
+create proc SP_CONSULTAR_CARRERA_POR_IDREPORTE
+    @idCarrera int
+as
+begin
+    select nCarrera, titulo, aCursado, cuatrimestre, nAsignatura
+    from asignaturas a join DetalleCarreras d on a.idAsignatura = d.idAsignatura
+    join carreras c on c.idCarrera = d.idCarrera
+    where c.idCarrera = @idCarrera
+end
+
 --ASIGNATURA--
 create proc SP_INSERTAR_ASIGNATURA
 	@nombre varchar(100)
