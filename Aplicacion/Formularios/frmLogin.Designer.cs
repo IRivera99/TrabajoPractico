@@ -53,6 +53,7 @@ namespace Aplicacion.Formularios
             this.txtUsuario.Text = "Usuario";
             this.txtUsuario.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtUsuario.Click += new System.EventHandler(this.txtUsuario_Click);
+            this.txtUsuario.TextChanged += new System.EventHandler(this.txtUsuario_TextChanged);
             this.txtUsuario.LostFocus += new System.EventHandler(this.txtUsuario_LostFocus);
             // 
             // txtContraseña
@@ -70,6 +71,7 @@ namespace Aplicacion.Formularios
             this.txtContraseña.Text = "Contraseña";
             this.txtContraseña.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtContraseña.Click += new System.EventHandler(this.txtContraseña_Click);
+            this.txtContraseña.TextChanged += new System.EventHandler(this.txtContraseña_TextChanged);
             this.txtContraseña.LostFocus += new System.EventHandler(this.txtContraseña_LostFocus);
             // 
             // btnIngresar

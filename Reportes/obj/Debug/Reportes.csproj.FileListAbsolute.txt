@@ -1,0 +1,161 @@
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\EnvDTE.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\stdole.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\Microsoft.MSXML.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Formularios.frmReporteAsignaturas.resources
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Formularios.frmReporteCarreras.resources
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\obj\Debug\Reportes.csproj.GenerateResource.cache
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\obj\Debug\RdlCompile.cache
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\obj\Debug\RdlCompile.compiled
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\obj\Debug\Reportes.csproj.CopyComplete
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\Repositorios Git\TrabajoPractico\Trabajo Practico\Reportes\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\WindowsFormsApp2.exe.config
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\WindowsFormsApp2.exe
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\WindowsFormsApp2.pdb
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\EnvDTE.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\stdole.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\Microsoft.MSXML.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Repositorios Git\TrabajoPractico\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+F:\Repositorios Git\TrabajoPractico\Reportes\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\Repositorios Git\TrabajoPractico\Reportes\obj\Debug\WindowsFormsApp2.Formularios.frmReporteAsignaturas.resources
+F:\Repositorios Git\TrabajoPractico\Reportes\obj\Debug\WindowsFormsApp2.Formularios.frmReporteCarreras.resources
+F:\Repositorios Git\TrabajoPractico\Reportes\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\Repositorios Git\TrabajoPractico\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+F:\Repositorios Git\TrabajoPractico\Reportes\obj\Debug\RdlCompile.cache
+F:\Repositorios Git\TrabajoPractico\Reportes\obj\Debug\RdlCompile.compiled
+F:\Repositorios Git\TrabajoPractico\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+F:\Repositorios Git\TrabajoPractico\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+F:\Repositorios Git\TrabajoPractico\Reportes\obj\Debug\WindowsFormsApp2.exe
+F:\Repositorios Git\TrabajoPractico\Reportes\obj\Debug\WindowsFormsApp2.pdb

@@ -105,7 +105,7 @@ namespace Aplicacion.Formularios
             {
                 txtContraseña.Text = string.Empty;
                 txtContraseña.PasswordChar = '*';
-                txtUsuario.Font = new System.Drawing.Font("Quicksand Medium", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+                txtContraseña.Font = new System.Drawing.Font("Quicksand Medium", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             }
                 
         }
@@ -122,6 +122,17 @@ namespace Aplicacion.Formularios
         private void frmLogin_Load(object sender, EventArgs e)
         {
             
+        }
+
+        private void txtContraseña_TextChanged(object sender, EventArgs e)
+        {
+            txtContraseña.PasswordChar = '*';
+            txtContraseña.Font = new System.Drawing.Font("Quicksand Medium", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+        }
+
+        private void txtUsuario_TextChanged(object sender, EventArgs e)
+        {
+            txtUsuario.Font = new System.Drawing.Font("Quicksand Medium", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
         }
     }
 }

@@ -257,6 +257,7 @@ namespace Aplicacion.Formularios
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmMenuPrincipal";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menú Principal";
             this.Load += new System.EventHandler(this.frmMenuPrincipal_Load);
             this.pSesion.ResumeLayout(false);
